@@ -17,5 +17,5 @@ The Sudoku Solver program takes an unsolved Sudoku puzzle as input and finds a s
 **Usage**
 1. Clone the repository or download the source code.
 2. Ensure you have Python installed on your system (version 3.x).
-3. Run the sudoku_solver.py with the unsolved Sudoku puzzle as input.
+3. Run the Sudoku_Solver.ipynb with the unsolved Sudoku puzzle as input.
 4. The program will output the solved Sudoku grid to the console.
